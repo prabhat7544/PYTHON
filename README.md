@@ -1,3 +1,2 @@
 # PYTHON
-hackerrank problems
-Solution of Hackerrank problem
+#hackerrank problem Solution
